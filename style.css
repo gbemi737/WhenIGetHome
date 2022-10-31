@@ -14,9 +14,10 @@ color:#260B01;
   font:'Cormorant Garamond', serif;
   font-size: 46px;
   text-decoration: none;
+  text-shadow: 0px 0px 5px #754926;
   color:#5C391D;
-  grid-column-start: 1;
-  grid-row-start: 1;
+  grid-column-start: 5;
+  grid-row-start: 5;
 }
 .tiiwords1{
     object-fit: cover;
